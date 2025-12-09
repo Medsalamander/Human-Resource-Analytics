@@ -23,6 +23,9 @@ This HR analytics project combines MS-SQL and Power BI evaluating the HR resourc
 
 ### Data Analysis
 
+### Dashboard
+[Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZGYwNWVlOWUtNDA2MS00OTlmLTk4NTAtZTRlNDNkY2ZkYjk0IiwidCI6IjJmMDFkOTZmLTgyYjMtNDY5My1hNTM3LTAwMTkxMGVkNmUyYSIsImMiOjZ9)
+
 ### Results & Findings
 
 ### Recommendations
