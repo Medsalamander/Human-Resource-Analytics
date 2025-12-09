@@ -8,6 +8,7 @@ This HR analytics project combines MS-SQL and Power BI evaluating the HR resourc
   - [Data Cleaning & Preparation](#data-cleaning-&-preparation)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Data Analysis](#data-analysis)
+  - [Dashboard](#dashboard)
   - [Results & Findings](#results-&-findings)
   - [Recommendations](#recommendations)
   - [Limitations](#limitations)
